@@ -20,6 +20,7 @@
 /tmp
 .temp
 .tmp
+package-lock.json
 
 # misc
 .DS_Store
